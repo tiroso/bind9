@@ -1,7 +1,5 @@
 FROM debian:jessie
 
-MAINTAINER Fernando Ike de Oliveira <fike@midstorm.org>
-
 ENV DEBIAN_FRONTEND noninteractive
 
 RUN apt-get update -y && \
