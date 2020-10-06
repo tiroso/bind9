@@ -1,4 +1,5 @@
 FROM debian:jessie
+MAINTAINER Jerry <mcchae@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
